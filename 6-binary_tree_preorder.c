@@ -4,7 +4,7 @@
  *  using pre-order traversal
  * @tree:  pointer to the root node
  * @func: pointer to a function to call for each node
- * Return: 1 if node is a root, otherwise 0
+ * Return: None, void function
  */
 
 
