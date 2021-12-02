@@ -69,9 +69,9 @@ A binary tree is a type of data structure for storing data such as numbers in an
 
 **Free Software**
 
-[![N|Solid](https://i.postimg.cc/FKh7hgp9/pngegg.png)](https://twitter.com/NeisseriaGi) 
-Yael Uribe
-[![N|Solid](https://i.postimg.cc/FKh7hgp9/pngegg.png)](https://twitter.com/Lisethav55)
+[![N|Solid](https://i.postimg.cc/FKh7hgp9/pngegg.png)](https://twitter.com/NeisseriaGi) <br>
+Yael Uribe <br>
+[![N|Solid](https://i.postimg.cc/FKh7hgp9/pngegg.png)](https://twitter.com/Lisethav55) <br>
 Liseth Arias
 
 [//]: # (These are reference links used in the body of this note. - )
